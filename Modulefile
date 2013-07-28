@@ -1,5 +1,5 @@
 name    'nvalentine-site'
-version '0.0.2'
+version '1.0.2'
 source 'git://github.com/nvalentine-puppetlabs/puppet-site.git'
 author 'Nathan Valentine - nathan@puppetlabs.com'
 license 'Apache License, Version 2.0'

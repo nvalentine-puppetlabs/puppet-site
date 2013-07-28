@@ -1,6 +1,6 @@
 {
   "name": "nvalentine-site",
-  "version": "0.0.2",
+  "version": "1.0.2",
   "source": "git://github.com/nvalentine-puppetlabs/puppet-site.git",
   "author": "Nathan Valentine - nathan@puppetlabs.com",
   "license": "Apache License, Version 2.0",
@@ -15,7 +15,7 @@
   ],
   "checksums": {
     "LICENSE": "19cbd64715b51267a47bf3750cc6a8a5",
-    "Modulefile": "e41ed227d487742b0681a677340ace99",
+    "Modulefile": "b3c6dfd320aee0521eb321e66c13dc4b",
     "README": "82ca88487cebb668c988b471b9ec727a",
     "manifests/init.pp": "0f36fe8e40e5bf6fe71b328effe3f9ca",
     "manifests/params.pp": "ea14973d6fd2d4a95d16506c21db65af",
