@@ -1,6 +1,6 @@
 class site::profile {
-  include site
-  include site::profile::params
+  require site
+  require site::profile::params
 
   notify { "site::profile": }
 }
