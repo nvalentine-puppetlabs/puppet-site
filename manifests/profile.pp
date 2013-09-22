@@ -1,6 +1,4 @@
-class site::profile {
+class site::profile inherits site::profile::params {
   require site
-  require site::profile::params
-
   notify { "site::profile": }
 }

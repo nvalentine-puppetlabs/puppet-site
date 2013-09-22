@@ -1,4 +1,3 @@
-class site {
-  require site::params
+class site inherits site::params {
   notify { "site": }
 }
