@@ -1,0 +1,33 @@
+{
+  "name": "nvalentine-site",
+  "version": "1.0.3",
+  "source": "git://github.com/nvalentine-puppetlabs/puppet-site.git",
+  "author": "Nathan Valentine - nathan@puppetlabs.com",
+  "license": "Apache License, Version 2.0",
+  "summary": "Scaffolding for site module using Roles & Profiles",
+  "description": "Scaffolding for site module using Roles & Profiles",
+  "project_page": "http://github.com/nvalentine-puppetlabs/puppet-site",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "LICENSE": "19cbd64715b51267a47bf3750cc6a8a5",
+    "Modulefile": "1339a611bfd7fa1efdef8dc948162121",
+    "README.md": "aef6ca845fb0dd9c1046d73fdc00b929",
+    "manifests/init.pp": "2acdfe8379933da6d0d0a8e769a6eb89",
+    "manifests/params.pp": "ea14973d6fd2d4a95d16506c21db65af",
+    "manifests/profile/base/params.pp": "4d8aaf8e6ba9524b5eb39c2784aab848",
+    "manifests/profile/base.pp": "bb2acd51c4897c20c88a259b027336ab",
+    "manifests/profile/params.pp": "210ff991e7782736c78d5603560bfc6a",
+    "manifests/profile.pp": "7923275d35564593490300a7d123035a",
+    "manifests/role/params.pp": "84c231c68fef6f56c380210cfffbb61b",
+    "manifests/role.pp": "97c02438e0575940fd2883e418ddade5",
+    "tests/init.pp": "49b2ad2d8a82f947623c58e13320bea5",
+    "tests/site_profile.pp": "0500d62316a976025b98ae4aafb980b0",
+    "tests/site_profile_base.pp": "381bf601b27a67d3cedb0a17d7a0dcde",
+    "tests/site_role.pp": "2bd03c3791945aa6bbe79455cc9186d6"
+  }
+}
