@@ -1,4 +1,4 @@
-name    'nvalentine-site'
+name    'nvpuppet-site'
 version '1.0.3'
 source 'git://github.com/nvalentine-puppetlabs/puppet-site.git'
 author 'Nathan Valentine - nathan@puppetlabs.com'
