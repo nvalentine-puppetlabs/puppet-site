@@ -1,3 +1,8 @@
+DEPRECATED -- This module is no longer maintained. The new URI is:
+
+http://github.com/nrvale0/puppet-site
+
+
 puppet-site
 -----------
 This is the site module. It is meant to act as scaffolding for quick
